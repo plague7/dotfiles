@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cyril.lagneau.simplon@gmail.com
+	name = cyril cyril
